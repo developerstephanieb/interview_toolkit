@@ -1,6 +1,6 @@
 # Interview Preparation Repository Structure
 
-This repository is organized to help with systematic interview preparation, focusing primarily on Python.
+Personal roadmap to technical interviews in Python.
 
 ## Repository Structure
 
