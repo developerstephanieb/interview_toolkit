@@ -1,10 +1,10 @@
-# interview_toolkit
+# Interview Toolkit
 
 Personal roadmap to technical interviews in Python.
 
 ## Repository Structure
 
-```plaintext
+```
 interview_toolkit/
 ├── README.md
 ├── 01_data_structures/
