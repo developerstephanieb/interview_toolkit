@@ -6,7 +6,6 @@ Personal roadmap to technical interviews in Python.
 
 ```
 interview_toolkit/
-├── README.md
 ├── 01_data_structures/
 │   ├── arrays/
 │   ├── linked_lists/
@@ -46,5 +45,6 @@ interview_toolkit/
 │   ├── notes/
 │   └── anki/
 ├── 09_company_specific/
-└── .gitignore
+├── .gitignore
+└── README.md 
 ```
